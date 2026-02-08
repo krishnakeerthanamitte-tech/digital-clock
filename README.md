@@ -25,15 +25,15 @@ A simple and visually pleasing 12-Hour digital clock built using HTML,CSS, and J
 
 **Project Structure**
   digital-clock/
-  ├── index.html
-  ├── style.css
-  ├── script.js
-  └── background.jpg
+  ├── digiclock.html
+  ├── digiclock.css
+  ├── diggiclock.js
+  └── background-image.jpg
 
 **How to Run the Project**
   1. Clone the repository:
      git clone https://github.com/krishnakeerthanamitte-tech/digital-clock.git
-  2. Open index.html in your browser
+  2. Open digiclock.html in your browser
 
 **What I Learned**
   - Working with JavaScript Date() object
