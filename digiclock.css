@@ -1,0 +1,21 @@
+body{
+    background-image: url(background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+#clock{
+    font-family: monospace;
+    font-size:5rem;
+    text-align: center;
+    font-weight: bold;
+    
+}
